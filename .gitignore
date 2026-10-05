@@ -1,0 +1,12 @@
+.env
+.vscode
+.gitignore
+
+src.zip
+
+__pycache__
+test.py
+chapters
+prompts
+settings.yaml
+outputs
